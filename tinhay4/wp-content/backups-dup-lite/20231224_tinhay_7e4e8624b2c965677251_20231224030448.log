@@ -1,0 +1,69 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 12/24/2023 3:05 AM
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.7.1
+WORDPRESS:	6.4.2
+PHP INFO:	8.2.4 | SAPI: apache2handler
+SERVER:		Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 52MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 1 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20231224_tinhay_7e4e8624b2c965677251_20231224030448_database.sql
+SQL FILE SIZE: 1.23MB (1292089)
+SQL FILE TIME: 2023-12-24 03:05:02
+SQL RUNTIME: 1.25 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/tinhay4
+ARCHIVE FILE: 20231224_tinhay_7e4e8624b2c965677251_20231224030448_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	110.72MB
+STATS:	Dirs 851 | Files 6,138 | Total 6,989
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 52.88MB
+ARCHIVE RUNTIME: 9.97 sec.
+MEMORY STACK: 54MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.23MB
+INSTALLER FILE: 94.81KB
+ARCHIVE FILE: 52.88MB 
+EXPECTED FILE/DIRECTORY COUNT: 7,728
+ACTUAL FILE/DIRECTORY COUNT: 7,729
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 9.98 sec.
+PEAK PHP MEMORY USED: 54MB
+DONE PROCESSING => 20231224_tinhay 2023-12-24 03:05:11
+
